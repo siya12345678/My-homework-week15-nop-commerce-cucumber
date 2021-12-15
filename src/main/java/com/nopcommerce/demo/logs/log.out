@@ -1,0 +1,241 @@
+2021-12-12 20:12:719 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 20:12:882 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 20:12:751 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 20:12:856 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:492 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:832 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:118 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (3bb9087d018c02f6d797d1747228e53c)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 21:12:767 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:229 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:511 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-12 21:12:633 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-12 21:12:753 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 21:12:893 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (5456e980a687bf96079f2f9a26a032c8)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-12 21:12:816 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:244 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:425 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 21:12:540 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 21:12:643 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 21:12:102 INFO  LoginPage :83 - verify  logout Link : [[ChromeDriver: chrome on WINDOWS (e5bb5ea67272a4300b300fa821fbcc9b)] -> xpath: //a[normalize-space()='Log out']]
+2021-12-12 21:12:856 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:218 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:498 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 21:12:609 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 21:12:704 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 21:12:753 INFO  LoginPage :77 - Clicking on logout link 
+2021-12-12 21:12:125 INFO  HomePage :48 - verify login Link 
+2021-12-12 21:12:985 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:400 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:258 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:317 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:742 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:728 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:00 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (cae2db5752f736f17066da029b70f0ad)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 21:12:761 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:333 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:562 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-12 21:12:676 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-12 21:12:786 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:907 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:490 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:703 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 21:12:823 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 21:12:923 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:430 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:461 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:698 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 21:12:820 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 21:12:924 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:918 INFO  LoginPage :77 - Clicking on logout link 
+2021-12-12 21:12:200 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:436 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:702 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (0ab522b5d1175b77a0fff659f00c9330)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 21:12:458 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 21:12:273 INFO  HomePage :36 - Clicking on login link
+2021-12-12 21:12:514 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-12 21:12:639 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-12 21:12:757 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 21:12:902 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (73e1ccfe293d9e94775461db1c203ff9)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-12 21:12:886 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 22:12:809 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:01 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 22:12:120 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 22:12:220 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:700 INFO  LoginPage :83 - verify  logout Link : [[ChromeDriver: chrome on WINDOWS (5f6acf9c278352b6b9dbfbad472d54e8)] -> xpath: //a[normalize-space()='Log out']]
+2021-12-12 22:12:517 INFO  ManageDriver :31 - Launching Chrome Driver
+2021-12-12 22:12:10 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:298 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 22:12:409 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 22:12:509 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:586 INFO  LoginPage :77 - Clicking on logout link 
+2021-12-12 22:12:968 INFO  HomePage :48 - verify login Link 
+2021-12-12 22:12:585 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:817 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:23 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (6ee13a41908c51b045235a2721c7b922)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 22:12:705 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:966 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:554 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-12 22:12:690 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-12 22:12:817 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:951 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (1dcca99dc990af7e100086f5506d7f94)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-12 22:12:850 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:379 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:695 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 22:12:806 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 22:12:907 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:73 INFO  LoginPage :83 - verify  logout Link : [[ChromeDriver: chrome on WINDOWS (628345730ea2f01dae1fa4f553fb328b)] -> xpath: //a[normalize-space()='Log out']]
+2021-12-12 22:12:793 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:332 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:522 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 22:12:624 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 22:12:734 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:853 INFO  LoginPage :77 - Clicking on logout link 
+2021-12-12 22:12:924 INFO  HomePage :48 - verify login Link 
+2021-12-12 22:12:614 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:776 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:577 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:678 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:573 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:571 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:80 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (a89e6680517035d8d8fcd8de870920b5)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-12 22:12:803 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:363 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:776 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-12 22:12:888 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-12 22:12:992 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:151 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (4b6da223fb2e0635e7b98e65ac48f2f9)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-12 22:12:45 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:490 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:691 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 22:12:798 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 22:12:894 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:639 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-12 22:12:241 INFO  HomePage :36 - Clicking on login link
+2021-12-12 22:12:473 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-12 22:12:581 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-12 22:12:670 INFO  LoginPage :73 - Clicking on login button
+2021-12-12 22:12:703 INFO  LoginPage :77 - Clicking on logout link 
+2021-12-13 10:12:39 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 10:12:209 INFO  HomePage :36 - Clicking on login link
+2021-12-13 10:12:848 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-13 10:12:76 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-13 10:12:256 INFO  LoginPage :73 - Clicking on login button
+2021-12-13 10:12:674 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (a670f096ccdc602885479a3d470b4c2d)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-13 10:12:104 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 10:12:576 INFO  HomePage :36 - Clicking on login link
+2021-12-13 10:12:328 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-13 10:12:536 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-13 10:12:737 INFO  LoginPage :73 - Clicking on login button
+2021-12-13 10:12:495 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (8ea9aa1b36b65f2aa074664fc4a53937)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-13 10:12:809 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 10:12:24 INFO  HomePage :36 - Clicking on login link
+2021-12-13 10:12:641 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-13 10:12:902 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-13 10:12:117 INFO  LoginPage :73 - Clicking on login button
+2021-12-13 10:12:574 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (a76bdaf2764b343b54e02b8991ebfd79)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-13 10:12:628 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 10:12:193 INFO  HomePage :36 - Clicking on login link
+2021-12-13 10:12:695 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-13 10:12:907 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-13 10:12:93 INFO  LoginPage :73 - Clicking on login button
+2021-12-13 10:12:385 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (84059a3d8aff88bb4882eeb0934dbcfc)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-13 11:12:317 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 11:12:591 INFO  HomePage :36 - Clicking on login link
+2021-12-13 11:12:206 INFO  LoginPage :62 - Entering email address : Testmail@gmail.com to email field 
+2021-12-13 11:12:511 INFO  LoginPage :67 - Entering password : password123 to password field
+2021-12-13 11:12:768 INFO  LoginPage :73 - Clicking on login button
+2021-12-13 11:12:277 INFO  LoginPage :57 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (bca4d6ea97842531fa113547a98103c2)] -> xpath: //div[@class='message-error validation-summary-errors']]
+2021-12-13 15:12:498 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:593 INFO  HomePage :41 - Clicking on register link 
+2021-12-13 15:12:80 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:867 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:534 INFO  HomePage :41 - Clicking on register link 
+2021-12-13 15:12:468 INFO  RegisterPage :131 - click on female gender button
+2021-12-13 15:12:591 INFO  RegisterPage :136 - enter First Name [[ChromeDriver: chrome on WINDOWS (e20d1e2b20fd8d01bfc75f07208cf05d)] -> id: FirstName]
+2021-12-13 15:12:729 INFO  RegisterPage :140 - enter Last Name [[ChromeDriver: chrome on WINDOWS (e20d1e2b20fd8d01bfc75f07208cf05d)] -> id: LastName]
+2021-12-13 15:12:360 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:100 INFO  HomePage :41 - Clicking on register link 
+2021-12-13 15:12:666 INFO  RegisterPage :131 - click on female gender button
+2021-12-13 15:12:795 INFO  RegisterPage :136 - enter First Name [[ChromeDriver: chrome on WINDOWS (9b936eb82f5a9accbf5e41de7fa07abc)] -> id: FirstName]
+2021-12-13 15:12:921 INFO  RegisterPage :140 - enter Last Name [[ChromeDriver: chrome on WINDOWS (9b936eb82f5a9accbf5e41de7fa07abc)] -> id: LastName]
+2021-12-13 15:12:359 INFO  RegisterPage :164 - Select day : '12', month : 'March', year : '1978'
+2021-12-13 15:12:387 INFO  RegisterPage :144 - enter email [[ChromeDriver: chrome on WINDOWS (9b936eb82f5a9accbf5e41de7fa07abc)] -> id: Email]
+2021-12-13 15:12:540 INFO  RegisterPage :148 - enter Password [[ChromeDriver: chrome on WINDOWS (9b936eb82f5a9accbf5e41de7fa07abc)] -> id: Password]
+2021-12-13 15:12:654 INFO  RegisterPage :152 - Confirm Passowrd[[ChromeDriver: chrome on WINDOWS (9b936eb82f5a9accbf5e41de7fa07abc)] -> id: ConfirmPassword]
+2021-12-13 15:12:779 INFO  RegisterPage :101 - click on Register button
+2021-12-13 15:12:470 INFO  RegisterPage :157 - Registration Complete message [[ChromeDriver: chrome on WINDOWS (9b936eb82f5a9accbf5e41de7fa07abc)] -> xpath: //div[@class='result' and contains(normalize-space(),'Your registration completed')]]
+2021-12-13 15:12:222 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:715 INFO  HomePage :41 - Clicking on register link 
+2021-12-13 15:12:545 INFO  RegisterPage :131 - click on female gender button
+2021-12-13 15:12:694 INFO  RegisterPage :136 - enter First Name [[ChromeDriver: chrome on WINDOWS (6e7ca407a55be4486ca9bf7ef92e5391)] -> id: FirstName]
+2021-12-13 15:12:852 INFO  RegisterPage :140 - enter Last Name [[ChromeDriver: chrome on WINDOWS (6e7ca407a55be4486ca9bf7ef92e5391)] -> id: LastName]
+2021-12-13 15:12:313 INFO  RegisterPage :164 - Select day : '12', month : 'March', year : '1978'
+2021-12-13 15:12:345 INFO  RegisterPage :144 - enter email [[ChromeDriver: chrome on WINDOWS (6e7ca407a55be4486ca9bf7ef92e5391)] -> id: Email]
+2021-12-13 15:12:497 INFO  RegisterPage :148 - enter Password [[ChromeDriver: chrome on WINDOWS (6e7ca407a55be4486ca9bf7ef92e5391)] -> id: Password]
+2021-12-13 15:12:616 INFO  RegisterPage :152 - Confirm Passowrd[[ChromeDriver: chrome on WINDOWS (6e7ca407a55be4486ca9bf7ef92e5391)] -> id: ConfirmPassword]
+2021-12-13 15:12:714 INFO  RegisterPage :101 - click on Register button
+2021-12-13 15:12:75 INFO  RegisterPage :157 - Registration Complete message [[ChromeDriver: chrome on WINDOWS (6e7ca407a55be4486ca9bf7ef92e5391)] -> xpath: //div[@class='result' and contains(normalize-space(),'Your registration completed')]]
+2021-12-13 15:12:927 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:452 INFO  HomePage :41 - Clicking on register link 
+2021-12-13 15:12:72 INFO  RegisterPage :131 - click on female gender button
+2021-12-13 15:12:183 INFO  RegisterPage :136 - enter First Name [[ChromeDriver: chrome on WINDOWS (6f9f7a14da02f15c8efef063df57824b)] -> id: FirstName]
+2021-12-13 15:12:330 INFO  RegisterPage :140 - enter Last Name [[ChromeDriver: chrome on WINDOWS (6f9f7a14da02f15c8efef063df57824b)] -> id: LastName]
+2021-12-13 15:12:778 INFO  RegisterPage :164 - Select day : '12', month : 'March', year : '1978'
+2021-12-13 15:12:812 INFO  RegisterPage :144 - enter email [[ChromeDriver: chrome on WINDOWS (6f9f7a14da02f15c8efef063df57824b)] -> id: Email]
+2021-12-13 15:12:962 INFO  RegisterPage :148 - enter Password [[ChromeDriver: chrome on WINDOWS (6f9f7a14da02f15c8efef063df57824b)] -> id: Password]
+2021-12-13 15:12:87 INFO  RegisterPage :152 - Confirm Passowrd[[ChromeDriver: chrome on WINDOWS (6f9f7a14da02f15c8efef063df57824b)] -> id: ConfirmPassword]
+2021-12-13 15:12:172 INFO  RegisterPage :101 - click on Register button
+2021-12-13 15:12:674 INFO  RegisterPage :157 - Registration Complete message [[ChromeDriver: chrome on WINDOWS (6f9f7a14da02f15c8efef063df57824b)] -> xpath: //div[@class='result' and contains(normalize-space(),'Your registration completed')]]
+2021-12-13 15:12:494 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 15:12:775 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 15:12:222 INFO  ComputerPage :29 - Get pageTitle text : Computers
+2021-12-13 16:12:884 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 16:12:432 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 16:12:172 INFO  ComputerPage :31 - Get pageTitle text : Computers
+2021-12-13 16:12:34 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 16:12:131 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 16:12:253 INFO  DesktopPage :41 - Get pageTitle text Desktops
+2021-12-13 17:12:187 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 17:12:764 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 17:12:281 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-13 17:12:66 INFO  BuildYourOwnComputerPage :64 - Select processor '2.2 GHz Intel Pentium Dual-Core E2200
+2021-12-13 17:12:205 INFO  BuildYourOwnComputerPage :72 - Select RAM '2 GB
+2021-12-13 17:12:319 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB
+2021-12-13 17:12:424 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Home [+$50.00]
+2021-12-13 17:12:529 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (877e0a4a86ca9ad2b087d69761e251f2)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-13 17:12:619 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-13 17:12:486 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-13 17:12:310 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 17:12:418 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 17:12:456 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-13 17:12:303 INFO  BuildYourOwnComputerPage :64 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-13 17:12:437 INFO  BuildYourOwnComputerPage :72 - Select RAM '4GB [+$20.00]
+2021-12-13 17:12:553 INFO  BuildYourOwnComputerPage :81 - Select HDD '400 GB [+$100.00]
+2021-12-13 17:12:684 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Premium [+$60.00]
+2021-12-13 17:12:805 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (448b72e1e726ea591cf38e5213bbc40f)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-13 17:12:884 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-13 17:12:911 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-13 17:12:233 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 17:12:679 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 17:12:382 INFO  DesktopPage :64 - Click on product 'Build your own computer' : Build your own computer
+2021-12-13 17:12:840 INFO  BuildYourOwnComputerPage :64 - Select processor '2.5 GHz Intel Pentium Dual-Core E2200 [+$15.00]
+2021-12-13 17:12:31 INFO  BuildYourOwnComputerPage :72 - Select RAM '8GB [+$60.00]
+2021-12-13 17:12:221 INFO  BuildYourOwnComputerPage :81 - Select HDD '320 GB
+2021-12-13 17:12:388 INFO  BuildYourOwnComputerPage :93 - Select HDD 'Vista Home [+$50.00]
+2021-12-13 17:12:608 INFO  BuildYourOwnComputerPage :105 - Select Software '[[ChromeDriver: chrome on WINDOWS (fe03512459cf17a87e8d781deb5b2560)] -> xpath: //dd[@id='product_attribute_input_5']//li/label]
+2021-12-13 17:12:679 INFO  BuildYourOwnComputerPage :114 - Click on 'ADD TO CART' Button
+2021-12-13 17:12:730 INFO  BuildYourOwnComputerPage :121 - Get productAdded Message : The product has been added to your shopping cart
+2021-12-13 18:12:385 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 18:12:649 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 18:12:873 INFO  ComputerPage :31 - Get pageTitle text : Computers
+2021-12-13 18:12:19 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 18:12:590 INFO  HomePage :53 - Clicking on Computers tab
+2021-12-13 18:12:291 INFO  DesktopPage :41 - Get pageTitle text Desktops
+2021-12-13 18:12:08 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 18:12:604 INFO  HomePage :36 - Clicking on login link
+2021-12-13 18:12:391 INFO  LoginPage :51 - Getting welcome text: [[ChromeDriver: chrome on WINDOWS (9f9b0e812e55925e00a4e018d3348829)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2021-12-13 18:12:373 INFO  ManageDriver :32 - Launching Chrome Driver
+2021-12-13 18:12:785 INFO  HomePage :36 - Clicking on login link
+2021-12-13 18:12:637 INFO  LoginPage :62 - Entering email address : gsmith@google.com to email field 
+2021-12-13 18:12:757 INFO  LoginPage :67 - Entering password : abcd1234 to password field
+2021-12-13 18:12:866 INFO  LoginPage :73 - Clicking on login button
